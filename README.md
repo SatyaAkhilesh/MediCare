@@ -172,6 +172,7 @@ The frontend is structured using ES6 modules, where each component, service, and
 📦 **Installation & Setup**
 
 🔧 **Backend**
+
     •   npm install
 	
     •   npm start
